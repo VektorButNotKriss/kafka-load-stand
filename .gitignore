@@ -1,0 +1,12 @@
+# k6 с xk6-kafka: бинарник и архив релиза скачиваются отдельно (см. README)
+k6kafka.exe
+k6kafka
+xk6-kafka*
+
+# HTML-отчёт k6 (K6_WEB_DASHBOARD_EXPORT)
+k6-report.html
+
+# Сборка и IDE
+stub/target/
+.idea/
+*.iml
